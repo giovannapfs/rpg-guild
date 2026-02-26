@@ -1,0 +1,15 @@
+{
+    "guilds":[
+        {
+            "id": "2511",
+            "name": "Sentinelas"
+        }
+    ],
+    "members": [
+        {
+            "id": "0ad5",
+            "name": "Selene Nightngale",
+            "guildId": "2511"
+        }
+    ]
+}
