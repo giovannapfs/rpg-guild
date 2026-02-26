@@ -1,15 +1,24 @@
 {
-    "guilds":[
-        {
-            "id": "2511",
-            "name": "Sentinelas"
-        }
-    ],
-    "members": [
-        {
-            "id": "0ad5",
-            "name": "Selene Nightngale",
-            "guildId": "2511"
-        }
-    ]
+  "guilds": [
+    {
+      "id": "2511",
+      "name": "Sentinelas"
+    },
+    {
+      "id": "e00a",
+      "name": "Aula Extra - Invasão Zumbi - Parte IV"
+    }
+  ],
+  "members": [
+    {
+      "id": "0ad5",
+      "name": "Selene Nightngale",
+      "guildId": "2511"
+    },
+    {
+      "id": "38b2",
+      "name": "Giovanna Passos Figueira da Silva",
+      "guildId": "2511"
+    }
+  ]
 }
